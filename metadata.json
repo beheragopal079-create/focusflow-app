@@ -1,0 +1,6 @@
+{
+  "name": "FOCUSFLOW",
+  "description": "Plan smarter. Focus deeper. Achieve more. A modern study planner with task management, Pomodoro focus timer, and study analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
